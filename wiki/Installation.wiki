@@ -1,9 +1,6 @@
-#Instructions on how to install the toolbox
-
 = Introduction =
 
 Add your content here.
-
 
 = Details =
 
